@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.android/build-cache/3d8d969215a5ce7d1913e86fbdc7e2f02c4b6546/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/classes_1cd0b3db738e547d8ee0864788afc0de60add758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.android/build-cache/d2e90174999b2b73a7ce7f8a150cce8d68050c48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/classes_641b53efacfedfd98f26ff2cab5af6807a63c233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_d7610d0bba75c8309081d07092fffb759c269377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.android/build-cache/5e93947f8398afe7f4a730bf2326ca4930be8920/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/classes_358a0339fdbb69773d3e771258abb3bc51946f4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.android/build-cache/2475a18c77822567336c95377b2cda5261c61b27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/classes_079a2f44ba8f43e6861faf811fadf6f4df8a8d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.android/build-cache/91cc7f1970284492d750cf56c81af1cbe24a7c9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/classes_b049f69e1805c7063f6b3aa19636e32876319783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.android/build-cache/332be1ac0c7c29bda1239ca6482dae742ed5e983/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/classes_15459673bc6e9bca9deb2d6544509c3d2602a774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.1/e2a00ad1d7e540ec395e9296a34da484c8888d4d/jackson-core-2.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2a00ad1d7e540ec395e9296a34da484c8888d4d">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/jackson-core-2.5.1_2cb961e95fd9db9231fd946ea747792ebb811668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.android/build-cache/7f06f141f2a22bce7d24de741dccd747da4b4a50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/classes_bcb9c9185585c6c0565289009fe0b8ee180b0b0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.android/build-cache/08457c9b6cea8c59ed3d7b3f2211ffe3f6d87fd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/classes_ddb60c2a68d2349b48d37421576d0c09e42d4af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.android/build-cache/e982b69cdf0db94828c0cf449dc0640696e4edfd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/classes_9939f9f684dabbfedfd5d94d0fd0194467ccb116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.android/build-cache/93a4f4357837eb4d1fc5bacc95ba91d775463b0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/classes_a08e45d7d2408a4f4fd05c208d6af91beaa9764a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.android/build-cache/28e9ecde184a06e6220d357156abbc36f605a4e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/classes_68cb4de5e886666547f2213cf97a56b572e43229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha9/constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha9_3a2dcfc287ac4a90192d885bafb365be3d875e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.bluelinelabs/logansquare/1.3.6/2e059622d3d37758b0f8022fd678de02b025cbe8/logansquare-1.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e059622d3d37758b0f8022fd678de02b025cbe8">
+        <dex dex="/home/ajitesh/Documents/UberAPI/app/build/intermediates/pre-dexed/debug/logansquare-1.3.6_b7670e089d235962dc1764cd997c4138d970e135.jar" />
+    </item>
+
+</items>
